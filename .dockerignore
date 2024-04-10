@@ -1,0 +1,19 @@
+# docker
+Dockerfile
+.dockerignore
+
+# git
+.git/
+.gitignore
+
+# github
+.github/
+
+# editor
+.devcontaier/
+.vscode/
+
+# misc
+.DS_Store
+LICENCE
+*.md
