@@ -1,0 +1,6 @@
+# editor
+.devcontainer/devcontainer.json
+.vscode/settings.json
+
+# misc
+.DS_Store
